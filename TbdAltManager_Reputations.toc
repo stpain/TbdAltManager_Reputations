@@ -1,0 +1,7 @@
+## Name: TbdAltManager_Reputations
+## Version: 0.1
+## Interface: 100000
+## Notes: Character module for TbdAltManager
+## SavedVariables: TbdAltManager_Reputations_SavedVariables
+
+TbdAltManager_Reputations.lua
